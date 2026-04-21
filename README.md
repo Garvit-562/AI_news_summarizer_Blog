@@ -1,4 +1,4 @@
-
+<img width="738" height="850" alt="Screenshot 2026-04-21 173225" src="https://github.com/user-attachments/assets/4c2d5ea0-ac78-412e-9bd8-ee0d410dd7c4" />
 # 📰 AI News Summarizer Blog
 
 An AI-powered application that fetches news articles and generates concise, readable summaries using modern Natural Language Processing techniques.
@@ -18,6 +18,18 @@ This project is designed to help users stay informed without spending time readi
 
 ---
 
+
+<img width="738" height="850" alt="Screenshot 2026-04-21 173225" src="https://github.com/user-attachments/assets/64df245a-d02f-44db-980f-debd6752c56a" />
+
+
+<img width="739" height="873" alt="Screenshot 2026-04-21 173237" src="https://github.com/user-attachments/assets/172b9f1a-f2c6-4be3-97ad-bc51659c7376" />
+
+
+<img width="765" height="789" alt="Screenshot 2026-04-21 173205" src="https://github.com/user-attachments/assets/0c06e068-142f-4f7f-a30e-044c73f57526" />
+
+
+
+---
 ## 🏗️ Project Structure
 
 ```
