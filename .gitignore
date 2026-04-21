@@ -1,3 +1,7 @@
-.env
+# General virtual environment folders
+venv/
 .venv/
-__pycache__/
+env/
+.env/
+bin/
+lib/
