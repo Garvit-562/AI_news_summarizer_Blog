@@ -1,4 +1,4 @@
-<img width="738" height="850" alt="Screenshot 2026-04-21 173225" src="https://github.com/user-attachments/assets/4c2d5ea0-ac78-412e-9bd8-ee0d410dd7c4" />
+
 # 📰 AI News Summarizer Blog
 
 An AI-powered application that fetches news articles and generates concise, readable summaries using modern Natural Language Processing techniques.
